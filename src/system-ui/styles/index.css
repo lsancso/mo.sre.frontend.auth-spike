@@ -1,0 +1,20 @@
+@import url('./variables.css');
+
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.home-title {
+  color: var(--cucumber);
+}
+
+.login-box__title {
+  color: var(--primary);
+}
+
+@media (min-width: 1000px) {
+  .home-title {
+    color: var(--blueberry);
+  }
+}

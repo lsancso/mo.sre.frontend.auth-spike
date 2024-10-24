@@ -1,0 +1,8 @@
+.layout {
+  background: var(--white-cream-light);
+  min-height: 100vh;
+}
+
+.layout__content {
+  padding: 3rem;
+}

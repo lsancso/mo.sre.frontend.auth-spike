@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  padding: 0 3rem;
+  background-color: var(--white);
+  box-shadow: var(--shadow-default);
+}
+
+.header__link {
+  color: var(--cucumber);
+  text-decoration: none;
+}
