@@ -1,8 +1,8 @@
 {
-  "name": "gestiondepermisos",
+  "name": "frontend-auth-spike",
     "repository": {
     "type": "git",
-    "url": "https://github.com/mercadona/mo.frontend.auth-spike"
+    "url": "https://github.com/mercadona/mo.sre.frontend.auth-spike"
   },
   "private": false,
   "version": "1.0.0",
